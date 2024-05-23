@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter (PCT L29)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "11.0.0.161(C636E5R3P4) GPU Turbo",
+            "cwd": "${workspaceFolder}",
+            "program": "lib/main.dart"
+        }
+    ]
+}
